@@ -1,0 +1,13 @@
+#contactdetails > input{
+    display: block;
+    width: 100%;
+    padding: 5px 0px;
+    margin-top: 20px ;
+    margin-bottom: 10px;
+    line-height: 1.2rem;
+   }
+   #contactdetails>span{
+    background-color:#0e0e0f;
+    color: white;
+    padding: 5px 7px;
+   } 

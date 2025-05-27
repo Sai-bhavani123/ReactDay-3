@@ -1,0 +1,24 @@
+#about_image{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    gap: 20px;
+    padding: 5px 10px;
+   }
+    #images{
+
+    width: 100%;
+}
+   #images>img{
+    width: 100%;
+    border-radius: 9px;
+   }
+   #images> span{
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    background-color:rgb(193, 176, 230);
+    padding: 10px 0px;
+   }
+   #about_image > #image>span:hover{
+    background-color: aqua;
+   }

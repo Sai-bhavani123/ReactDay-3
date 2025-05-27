@@ -1,0 +1,20 @@
+#map{
+    width: 100%;
+    padding: 5px 1px;
+   }
+   #map>img{
+    margin-top: 20px;
+    width: 100%;
+   }
+   #footer{
+    padding: 5px 10px;
+    background-color: #0e0e0f;
+    text-align: center;
+    color: white;
+}
+#pos{
+    position:relative;
+    bottom: 145rem;
+    left:28rem;
+    font-size: 35px;
+}
